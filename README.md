@@ -14,7 +14,7 @@ Coming soon: tools to sign transactions passed down from the server connected to
 ## Getting Started
 
 ```bash
-npm install --save ethereum-payments
+npm install --save @faast/ethereum-payments
 ```
 
 Create a new wallet (DON'T DO THIS ON PRODUCTION):
